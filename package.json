@@ -1,6 +1,9 @@
 {
-  "name": "template",
-  "version": "0.1.0",
+  "name": "primum | Next.js Project Starter",
+  "version": "0.0.1",
+  "author": "Lystrillian",
+  "description": "Starter kit for Next.JS projects",
+  "repository": "https://github.com/Lystrillian/primum",
   "private": true,
   "scripts": {
     "dev": "next dev",
