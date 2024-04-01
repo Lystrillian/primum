@@ -16,6 +16,7 @@ This starter kit is composed of:
 - - [Container Queries](https://github.com/tailwindlabs/tailwindcss-container-queries)
 - - [Animate](https://github.com/jamiebuilds/tailwindcss-animate)
 - - [Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
+- [Turbo](https://turbo.build/)
 
 ## Author
 
