@@ -4,6 +4,7 @@
   "author": "Lystrillian",
   "description": "Starter kit for Next.JS projects",
   "repository": "https://github.com/Lystrillian/primum",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "next dev",
