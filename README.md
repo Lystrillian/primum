@@ -1,4 +1,4 @@
-![Banner](./public/banner.png)
+![Banner](./public/banner3.png)
 
 # Primum
 
